@@ -7,3 +7,6 @@ pufffff
 branch'i deniyorum DİKKAT
 >>>>>>> mehmet
 Master branch'i deniyorum DİKKAT!!!
+
+
+kozak Branch i ilk deneme
