@@ -1,4 +1,9 @@
 GitHub ilk gün
+<<<<<<< HEAD
 Sıkıcı bir gün
 pufffff
 3. gün
+=======
+branch'i deniyorum DİKKAT
+>>>>>>> mehmet
+Master branch'i deniyorum DİKKAT!!!
